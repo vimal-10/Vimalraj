@@ -23,9 +23,16 @@ the high risk nations and low risk nations to distribute the medical assitant ac
 2. Load the dataset – Import the libraries and load the dataset that have been downloaded and read it using pd.read_csv(file_name). 
 <img width="960" alt="Screenshot 2023-05-07 160515" src="https://user-images.githubusercontent.com/122202956/236665557-c564339d-acd0-45cd-984d-3d699b01c9b0.png">
 
-3. Data Preparation
-  
-  A) Drop Unwanted coloumn
+3. Data Preparation - Drop unwanted coloums to streamline the data and remove unnecessary information. 
+<img width="960" alt="Screenshot 2023-05-07 161106" src="https://user-images.githubusercontent.com/122202956/236665785-d0ffec8d-c70c-4cfd-a188-ce13bed92b46.png">
+
+4. Test Our Model - start our data analysis using the model that we created.
+<img width="947" alt="Screenshot 2023-05-07 161320" src="https://user-images.githubusercontent.com/122202956/236665880-1758d996-fef0-49d3-a955-6464ca95211b.png">
+
+5. Results :
+<img width="922" alt="Screenshot 2023-05-07 161439" src="https://user-images.githubusercontent.com/122202956/236665950-ab4e6e95-fb60-4f57-9d83-9e95e504298e.png">
+<img width="901" alt="Screenshot 2023-05-07 161516" src="https://user-images.githubusercontent.com/122202956/236665955-f57d9d3c-cb32-4074-89d4-f2faf35957ea.png">
+
   
 
 ## Used Dataset
