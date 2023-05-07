@@ -1,5 +1,7 @@
 # World Malaria Analysis from 2010 to 2017
 
+- [Introduction](#introduction)
+
 ## Introduction
 
 Malaria is a serious and often fatal disease that affects millions of people worldwide, especially in tropical and subtropical regions. It is caused by a parasite called Plasmodium, which is transmitted to humans through the bites of infected female Anopheles mosquitoes. Malaria is a significant public health concern, with an estimated 229 million cases and 409,000 deaths reported globally in 2019. The disease is particularly devastating in sub-Saharan Africa, where it is a leading cause of death among children under five. Malaria is preventable and treatable, but efforts to control and eliminate the disease continue to face challenges such as drug resistance and mosquito control. In this context, raising awareness and understanding about malaria is crucial in the fight against this global health threat.
