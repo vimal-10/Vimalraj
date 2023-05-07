@@ -23,6 +23,10 @@ the high risk nations and low risk nations to distribute the medical assitant ac
 2. Load the dataset – Import the libraries and load the dataset that have been downloaded and read it using pd.read_csv(file_name). 
 <img width="960" alt="Screenshot 2023-05-07 160515" src="https://user-images.githubusercontent.com/122202956/236665557-c564339d-acd0-45cd-984d-3d699b01c9b0.png">
 
+3. Data Preparation
+  
+  A) Drop Unwanted coloumn
+  
 
 ## Used Dataset
 The dataset we used is from Kaggle entitled Malaria Dataset (https://www.kaggle.com/datasets/imdevskp/malaria-dataset). The dataset is consist of 107 countries in total and is from year 2010 until 2017. 
